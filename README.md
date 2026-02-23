@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I use ArchBTW.
 -->
+Hi Call my Rayrock I'm a girl who loves coding in C, I also use Linux 
+And can make a Bash script 
